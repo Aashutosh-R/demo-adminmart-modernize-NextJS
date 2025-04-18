@@ -14,7 +14,7 @@
 
 <div align="center">
    <a href="https://adminmart.com/product/modernize-free-nextjs-admin-template/?ref=56" target="_blank">
-      <img src="https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png" alt="modernize free" width="200px" height="150px">
+      <img src="https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png" alt="modernize free" width="564px" height="395px">
    </a>
 </div>
 
