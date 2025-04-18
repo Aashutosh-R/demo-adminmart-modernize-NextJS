@@ -1,6 +1,6 @@
 <div align="center">
    <a href="https://adminmart.com/" target="_blank">
-      <img src="https://adminmart.github.io/template_api/images/brand-logo/adminmart-Logo.svg" alt="sneat-logo" width="200px" height="150px">
+      <img src="https://adminmart.github.io/template_api/images/brand-logo/adminmart-Logo.svg" alt="sneat-logo" width="100px" height="80px">
    </a>
 </div>
 
@@ -10,13 +10,13 @@
    </a>
 </h1>
 
-<p align="center">Download most useful and comprehensive 🚀 Free NextJs admin template built for developers 🛠</p>
+<p>Download most useful and comprehensive 🚀 Free NextJs admin template built for developers 🛠</p>
 
-<div align="center">
-   <a href="https://adminmart.com/product/modernize-free-nextjs-admin-template/?ref=56" target="_blank">
-      <img src="https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png" alt="modernize free" width="564px" height="395px">
-   </a>
-</div>
+
+<a href="https://adminmart.com/product/modernize-free-nextjs-admin-template/?ref=56" target="_blank">
+	<img src="https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png" alt="modernize free" width="564px" height="395px">
+</a>
+
 
 ## 👋 Introduction
 
