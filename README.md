@@ -12,15 +12,8 @@
 
 <p>Download most useful and comprehensive 🚀 Free NextJs admin template built for developers 🛠</p>
 
-<table>
-  <tr>
-    <td align="center" bgcolor="#cdd8df">
-      <a href="https://adminmart.com/product/modernize-free-nextjs-admin-template/?ref=56" target="_blank">
-        <img src="https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png" width="564" height="395">
-      </a>
-    </td>
-  </tr>
-</table>
+[![Modernize Free](https://img.shields.io/badge/Modernize%20Free-Next.js%20Template-%23cdd8df)](https://adminmart.com/product/modernize-free-nextjs-admin-template/?ref=56)
+
 
 
 
