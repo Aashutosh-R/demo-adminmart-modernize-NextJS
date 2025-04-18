@@ -1,8 +1,8 @@
-<p align="center">
+<div align="center">
    <a href="https://adminmart.com/" target="_blank">
       <img src="https://adminmart.github.io/template_api/images/brand-logo/adminmart-Logo.svg" alt="sneat-logo" width="200px" height="150px">
    </a>
-</p>
+</div>
 
 <h1 align="center">
    <a href="https://adminmart.com/product/modernize-free-nextjs-admin-template/?ref=56" target="_blank" align="center">
@@ -12,8 +12,10 @@
 
 <p align="center">Download most useful and comprehensive 🚀 Free NextJs admin template built for developers 🛠</p>
 
+<p align="center">
+	[![Modernize Free Next Js Admin Template Demo Screenshot](https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png)](https://adminmart.com/product/modernize-free-nextjs-admin-template/?ref=56)	
+</p>
 
-[![Modernize Free Next Js Admin Template Demo Screenshot](https://adminmart.com/wp-content/uploads/2023/03/modernize-free-next-js-admin-template.png)](https://adminmart.com/product/modernize-free-nextjs-admin-template/?ref=56)
 
 
 
